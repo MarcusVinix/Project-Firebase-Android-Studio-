@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">Project Firebase</string>
+    <string name="log_in">Log in</string>
+    <string name="name">Name</string>
+    <string name="email">Email</string>
+    <string name="password">Password</string>
+    <string name="text_sign_up">Click here to create a account</string>
+    <string name="title_sign_up">Sign Up</string>
+    <string name="register">Register</string>
+    <string name="log_out">Log Out</string>
+</resources>
